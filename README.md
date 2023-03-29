@@ -9,4 +9,4 @@
 * Drag and drop your SAV file on the page
 * Your party and boxes 1-3 will be imported into the calculator!
 
-![](https://im4.ezgif.com/tmp/ezgif-4-5fdd5029dd.gif)
+![](https://i.imgur.com/vQ0D1Dt.gif)
