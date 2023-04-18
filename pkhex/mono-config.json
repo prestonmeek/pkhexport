@@ -1,5 +1,5 @@
 {
-  "mainAssemblyName": "showdownsaves.dll",
+  "mainAssemblyName": "pkhexport.dll",
   "assemblyRootFolder": "managed",
   "debugLevel": -1,
   "assets": [
@@ -9,11 +9,11 @@
     },
     {
       "behavior": "assembly",
-      "name": "showdownsaves.dll"
+      "name": "pkhexport.dll"
     },
     {
       "behavior": "assembly",
-      "name": "showdownsaves.pdb"
+      "name": "pkhexport.pdb"
     },
     {
       "behavior": "assembly",

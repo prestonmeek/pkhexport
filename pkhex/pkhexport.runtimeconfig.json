@@ -16,7 +16,7 @@
         }
       ],
       "runtimeArgs": [],
-      "mainAssembly": "showdownsaves.dll"
+      "mainAssembly": "pkhexport.dll"
     },
     "configProperties": {
       "Microsoft.Extensions.DependencyInjection.VerifyOpenGenericServiceTrimmability": true,
