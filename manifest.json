@@ -1,5 +1,5 @@
 {
-    "name": "showdownsaves",
+    "name": "pkhexport",
     "description": "A Google Chrome extension!",
     "version": "1.0",
     "manifest_version": 3,

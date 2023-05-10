@@ -17,6 +17,14 @@
     },
     {
       "behavior": "assembly",
+      "name": "showdownsaves.dll"
+    },
+    {
+      "behavior": "assembly",
+      "name": "showdownsaves.pdb"
+    },
+    {
+      "behavior": "assembly",
       "name": "System.Collections.Concurrent.dll"
     },
     {
