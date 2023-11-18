@@ -1,0 +1,277 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0/browser-wasm",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {},
+    ".NETCoreApp,Version=v7.0/browser-wasm": {
+      "pkhexport/1.0.0": {
+        "dependencies": {
+          "PKHeX.Core": "23.2.28",
+          "runtimepack.Microsoft.NETCore.App.Runtime.Mono.browser-wasm": "7.0.13"
+        },
+        "runtime": {
+          "pkhexport.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13": {
+        "runtime": {
+          "System.Collections.Concurrent.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Collections.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.ComponentModel.Primitives.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.ComponentModel.TypeConverter.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Diagnostics.DiagnosticSource.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Diagnostics.TraceSource.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Linq.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Memory.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Net.Http.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Net.Primitives.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Numerics.Vectors.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.ObjectModel.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Private.Uri.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Runtime.InteropServices.JavaScript.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Runtime.InteropServices.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Runtime.Numerics.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Runtime.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Security.Cryptography.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Text.RegularExpressions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "System.Threading.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          }
+        },
+        "native": {
+          "System.Private.CoreLib.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.1323.51816"
+          },
+          "dotnet-legacy.d.ts": {
+            "fileVersion": "0.0.0.0"
+          },
+          "dotnet.d.ts": {
+            "fileVersion": "0.0.0.0"
+          },
+          "dotnet.js": {
+            "fileVersion": "0.0.0.0"
+          },
+          "dotnet.js.symbols": {
+            "fileVersion": "0.0.0.0"
+          },
+          "dotnet.timezones.blat": {
+            "fileVersion": "0.0.0.0"
+          },
+          "dotnet.wasm": {
+            "fileVersion": "0.0.0.0"
+          },
+          "icudt.dat": {
+            "fileVersion": "0.0.0.0"
+          },
+          "icudt_CJK.dat": {
+            "fileVersion": "0.0.0.0"
+          },
+          "icudt_EFIGS.dat": {
+            "fileVersion": "0.0.0.0"
+          },
+          "icudt_no_CJK.dat": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libSystem.IO.Compression.Native.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libSystem.Native.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libicudata.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libicui18n.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libicuuc.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmono-component-debugger-static.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmono-component-debugger-stub-static.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmono-component-diagnostics_tracing-static.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmono-component-diagnostics_tracing-stub-static.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmono-component-hot_reload-static.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmono-component-hot_reload-stub-static.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmono-ee-interp.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmono-icall-table.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmono-ilgen.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmono-profiler-aot.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmono-wasm-eh-js.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmono-wasm-eh-wasm.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "libmonosgen-2.0.a": {
+            "fileVersion": "0.0.0.0"
+          },
+          "package.json": {
+            "fileVersion": "0.0.0.0"
+          },
+          "gc-common.h": {
+            "fileVersion": "0.0.0.0"
+          },
+          "pinvoke.h": {
+            "fileVersion": "0.0.0.0"
+          },
+          "wasm-config.h": {
+            "fileVersion": "0.0.0.0"
+          },
+          "corebindings.c": {
+            "fileVersion": "0.0.0.0"
+          },
+          "driver.c": {
+            "fileVersion": "0.0.0.0"
+          },
+          "emcc-default.rsp": {
+            "fileVersion": "0.0.0.0"
+          },
+          "emcc-link.rsp": {
+            "fileVersion": "0.0.0.0"
+          },
+          "emcc-props.json": {
+            "fileVersion": "0.0.0.0"
+          },
+          "pal_random.lib.js": {
+            "fileVersion": "0.0.0.0"
+          },
+          "pinvoke.c": {
+            "fileVersion": "0.0.0.0"
+          },
+          "dotnet.es6.extpost.js": {
+            "fileVersion": "0.0.0.0"
+          },
+          "dotnet.es6.lib.js": {
+            "fileVersion": "0.0.0.0"
+          },
+          "dotnet.es6.post.js": {
+            "fileVersion": "0.0.0.0"
+          },
+          "dotnet.es6.pre.js": {
+            "fileVersion": "0.0.0.0"
+          },
+          "runtime.es6.iffe.js": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "PKHeX.Core/23.2.28": {
+        "runtime": {
+          "lib/net7.0/PKHeX.Core.dll": {
+            "assemblyVersion": "23.2.27.0",
+            "fileVersion": "23.2.27.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pkhexport/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.NETCore.App.Runtime.Mono.browser-wasm/7.0.13": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PKHeX.Core/23.2.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Of6oz8lyNH4tY1DNjlU1U97xIcyiPFPM3J5Ahxvapk97QEYqkHExAqjYDnrdSdYrvCEHOhaCvbpMnv5vYritjw==",
+      "path": "pkhex.core/23.2.28",
+      "hashPath": "pkhex.core.23.2.28.nupkg.sha512"
+    }
+  },
+  "runtimes": {
+    "browser-wasm": [
+      "browser",
+      "any",
+      "base"
+    ]
+  }
+}

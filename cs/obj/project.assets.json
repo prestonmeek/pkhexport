@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "PKHeX.Core/23.2.28": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/PKHeX.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/PKHeX.Core.dll": {}
+        }
+      }
+    },
+    "net7.0/browser-wasm": {
+      "PKHeX.Core/23.2.28": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/PKHeX.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/PKHeX.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PKHeX.Core/23.2.28": {
+      "sha512": "Of6oz8lyNH4tY1DNjlU1U97xIcyiPFPM3J5Ahxvapk97QEYqkHExAqjYDnrdSdYrvCEHOhaCvbpMnv5vYritjw==",
+      "type": "package",
+      "path": "pkhex.core/23.2.28",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net7.0/PKHeX.Core.dll",
+        "pkhex.core.23.2.28.nupkg.sha512",
+        "pkhex.core.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "PKHeX.Core >= 23.2.28"
+    ]
+  },
+  "packageFolders": {
+    "/Users/prestonmeek/Desktop/PROJECTS/pkhexport/cs/.packages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/prestonmeek/Desktop/PROJECTS/pkhexport/cs/pkhexport.csproj",
+      "projectName": "pkhexport",
+      "projectPath": "/Users/prestonmeek/Desktop/PROJECTS/pkhexport/cs/pkhexport.csproj",
+      "packagesPath": "/Users/prestonmeek/Desktop/PROJECTS/pkhexport/cs/.packages",
+      "outputPath": "/Users/prestonmeek/Desktop/PROJECTS/pkhexport/cs/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/prestonmeek/Desktop/PROJECTS/pkhexport/cs/NuGet.Config",
+        "/Users/prestonmeek/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-experimental/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "PKHeX.Core": {
+            "target": "Package",
+            "version": "[23.2.28, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "browser-wasm": {
+        "#import": []
+      }
+    }
+  }
+}

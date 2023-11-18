@@ -1,4 +1,4 @@
-import { dotnet } from './pkhex/dotnet.js'
+import { dotnet } from './cs/bin/Debug/net7.0/browser-wasm/AppBundle/dotnet.js'
 
 (async() => {
     const { getAssemblyExports, getConfig } = await dotnet
@@ -9,7 +9,7 @@ import { dotnet } from './pkhex/dotnet.js'
     const exports = await getAssemblyExports(getConfig().mainAssemblyName)
 
     self.onmessage = (e) => {
-        const savData = exports.TodoMVC.MainJS.SavToSets(e.data)
+        const savData = exports.TodoMVC.MainJS.SavToSets(e.data.bytes, e.data.path)
         
         self.parent.postMessage(savData, "*")
     }

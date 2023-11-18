@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "pkhexport/1.0.0": {
+        "dependencies": {
+          "PKHeX.Core": "23.2.28"
+        },
+        "runtime": {
+          "pkhexport.dll": {}
+        }
+      },
+      "PKHeX.Core/23.2.28": {
+        "runtime": {
+          "lib/net7.0/PKHeX.Core.dll": {
+            "assemblyVersion": "23.2.27.0",
+            "fileVersion": "23.2.27.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pkhexport/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PKHeX.Core/23.2.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Of6oz8lyNH4tY1DNjlU1U97xIcyiPFPM3J5Ahxvapk97QEYqkHExAqjYDnrdSdYrvCEHOhaCvbpMnv5vYritjw==",
+      "path": "pkhex.core/23.2.28",
+      "hashPath": "pkhex.core.23.2.28.nupkg.sha512"
+    }
+  }
+}

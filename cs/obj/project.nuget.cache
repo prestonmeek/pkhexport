@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MzIZPz1cBiDV2H2DV1BCwuvUyIFiR40Xask24lVFAFo8pTkcghNt/7knETiQBl3Wxuvfe1RqGPACNuot+Mh+SA==",
+  "success": true,
+  "projectFilePath": "/Users/prestonmeek/Desktop/PROJECTS/pkhexport/cs/pkhexport.csproj",
+  "expectedPackageFiles": [
+    "/Users/prestonmeek/Desktop/PROJECTS/pkhexport/cs/.packages/pkhex.core/23.2.28/pkhex.core.23.2.28.nupkg.sha512"
+  ],
+  "logs": []
+}

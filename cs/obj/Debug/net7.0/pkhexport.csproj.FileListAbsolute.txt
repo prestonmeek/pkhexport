@@ -1,0 +1,17 @@
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/bin/Debug/net7.0/pkhexport
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/bin/Debug/net7.0/PKHeX.Core.dll
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/obj/Debug/net7.0/pkhexport.csproj.AssemblyReference.cache
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/obj/Debug/net7.0/pkhexport.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/obj/Debug/net7.0/pkhexport.AssemblyInfoInputs.cache
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/obj/Debug/net7.0/pkhexport.AssemblyInfo.cs
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/obj/Debug/net7.0/pkhexport.csproj.CoreCompileInputs.cache
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/obj/Debug/net7.0/pkhexport.csproj.CopyComplete
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/obj/Debug/net7.0/pkhexport.dll
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/obj/Debug/net7.0/refint/pkhexport.dll
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/obj/Debug/net7.0/pkhexport.pdb
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/bin/Debug/net7.0/pkhexport.deps.json
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/bin/Debug/net7.0/pkhexport.runtimeconfig.json
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/bin/Debug/net7.0/pkhexport.dll
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/bin/Debug/net7.0/pkhexport.pdb
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/obj/Debug/net7.0/pkhexport.genruntimeconfig.cache
+/Users/prestonmeek/Desktop/PROJECTS/pkhexport/c#/obj/Debug/net7.0/ref/pkhexport.dll

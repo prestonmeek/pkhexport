@@ -17,7 +17,10 @@ export async function executeInjection() {
             const sav = files[0]
             const bytes = new Uint8Array(await sav.arrayBuffer())
 
-            iframe.contentWindow.postMessage(bytes, '*')
+            iframe.contentWindow.postMessage({
+                path: sav.name, 
+                bytes
+            }, '*')
         }
     }
 
