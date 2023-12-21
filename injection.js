@@ -19,13 +19,17 @@ export async function executeInjection() {
 
             iframe.contentWindow.postMessage({
                 path: sav.name, 
+                source: "pkhexport",
                 bytes
             }, '*')
         }
     }
 
     window.onmessage = (e) => {
-        teams.value = e.data
+        if (e?.data?.source != "pkhexport")
+            return
+
+        teams.value = e.data.savData
         importTeams.click()
     }
 }
